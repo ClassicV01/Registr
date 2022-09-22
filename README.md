@@ -1,2 +1,2 @@
 # Registr
-It's a project to create notes with authorization. Now authorizaition in this project don't released and being finalized in the Registr project.
+It's a project where I try to implement registration and authorization with JWT-token.
